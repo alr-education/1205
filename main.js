@@ -163,4 +163,3 @@ document.querySelector(".chat-window button.close")
 .addEventListener("click", ()=>{
     document.querySelector("body").classList.remove("chat-open");
 });
-
